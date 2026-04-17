@@ -1,13 +1,12 @@
 # Word-games
 
 ## About
-WordGames is a small software development course project, which features 2 classic word games - hangman and Wordl, both of which are based in bulgarian. 
+WordGames is a small course project for a software development class that implements a desktop platform with a GUI where any registered user can play Hangman or Wordle in Bulgarian. 
 
 ## Features
-1.  *Database (TSQL)* - divides the data in two categories - hangman and wordl specific words, as well as player statistics
-
+1.  *Database (TSQL)* - the data required for the application is organized by the game it is intended for; it contains user information such as the number of games played and the number of wins
+   
 // to add the logical ER diagram of the DB
    
-2.  *GUI (C#, WindowsForms)* - implementes a simple and easy-to-use user interface, that is directly linked to the database using Entity Framework Core
+2.  *GUI (C#, WindowsForms)* - implementes a simple and easy-to-use user interface, with the connection to the database established via EF Core
 
-// to add example photos of the GUI
