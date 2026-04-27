@@ -16,3 +16,9 @@ WordGames is a small course project for a software development class that implem
 <img width="400" height="200" src="https://github.com/user-attachments/assets/782c9150-b880-4d44-b55f-7d4db6f6005b" />
 
 <img width="400" height="200" src="https://github.com/user-attachments/assets/1932955e-bddf-4488-99b6-a93a27cf04e6" />
+
+
+This is the UML diagram showcasing how the project works:
+
+<img width="726" height="551" alt="UML_Dumi" src="https://github.com/user-attachments/assets/3a9f24ed-f6d1-4133-aa3e-4ef197da30cf" />
+
