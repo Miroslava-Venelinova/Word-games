@@ -7,7 +7,7 @@ WordGames is a small course project for a software development class that implem
 ## Features
 1.  *Database (TSQL)* - the data required for the application is organized by the game it is intended for; it contains user information such as the number of games played and the number of wins
 
-<img align="center" width="500" height="230" src="https://github.com/user-attachments/assets/b55bee89-af70-42d3-b6d0-b404451b0a1b" />
+<img align="center" width="500" height="230" src="https://github.com/user-attachments/assets/e343ede9-677b-44fd-ae37-58583bad6f85" />
    
 2.  *GUI (C#, WindowsForms)* - implementes a simple and easy-to-use user interface, with the connection to the database established via EF Core
 
